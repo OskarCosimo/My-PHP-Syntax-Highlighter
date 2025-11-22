@@ -86,4 +86,5 @@ endif;
   ## Official Visual Studio Market Extension
   You can find it here: [https://marketplace.visualstudio.com/items?itemName=MYETV.mpsh
 ](https://marketplace.visualstudio.com/items?itemName=MYETV.mpsh)
+
 Thank you for using My PHP Syntax Highlighter! 💙
