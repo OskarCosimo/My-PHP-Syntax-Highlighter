@@ -83,4 +83,7 @@ endif;
 - Feature requests: [https://github.com/OskarCosimo/My-PHP-Syntax-Highlighter/discussions](https://github.com/OskarCosimo/My-PHP-Syntax-Highlighter/discussions)
 - Developers official blog: [https://blog.myetv.tv/2025/11/21/my-php-syntax-highlighter-for-visual-studio/](https://blog.myetv.tv/2025/11/21/my-php-syntax-highlighter-for-visual-studio/)
 
+  ## Official Visual Studio Market Extension
+  You can find it here: [https://marketplace.visualstudio.com/items?itemName=MYETV.mpsh
+](https://marketplace.visualstudio.com/items?itemName=MYETV.mpsh)
 Thank you for using My PHP Syntax Highlighter! 💙
