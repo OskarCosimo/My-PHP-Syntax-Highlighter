@@ -4,6 +4,10 @@
 
 ### Automatic Features (No Configuration Required)
 
+The extension add the possibility to:
+1. Add a new .php file
+2. Create a new project with the PHP template
+
 The extension works automatically on all `.php` files:
 
 1. **PHP Tag Highlighting**
@@ -43,6 +47,12 @@ The extension works automatically on all `.php` files:
 | Control Structures | Lime-yellow | Blue |
 | Quotes | Light blue | - |
 | Syntax Errors | - | Red (squiggle) |
+
+## Customi Color
+
+In the menu: Tools -> Options -> PHP Syntax Highlighter
+
+You can customize all the colors used to highlight the code.
 
 ## Performance
 
