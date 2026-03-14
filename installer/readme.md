@@ -4,11 +4,14 @@ Download the file .vsix and double click it; Visual Studio must be installed to 
 
 ## CHANGELOG
 
+### Version 1.4.0
+Fixed the option panel not showing up in Visual Studio 2026 (v18.x) due to a compatibility issue with the latest Visual Studio SDK. The panel is now fully functional and accessible under Tools -> Options -> PHP Syntax Highlighter -> Colors.
+
 ### Version 1.0.3
 #### New Features
 - Added keyword highlighting for PHP language constructs (echo, return, function, class, new, if, foreach, ...)
 - Added built-in function highlighting covering the full PHP native function library (array_map, str_replace, json_encode, preg_match, session_start, ...)
-- Added configurable colors page under Tools → Options → PHP Syntax Highlighter → Colors
+- Added configurable colors page under Tools -> Options -> PHP Syntax Highlighter -> Colors
 
 #### Improvements
 - Extended Visual Studio compatibility to include Visual Studio 2026 (v18.x)
