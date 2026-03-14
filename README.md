@@ -48,7 +48,7 @@ The extension works automatically on all `.php` files:
 | Quotes | Light blue | - |
 | Syntax Errors | - | Red (squiggle) |
 
-## Customi Color
+## Custom Colors
 
 In the menu: Tools -> Options -> PHP Syntax Highlighter
 
